@@ -2,7 +2,7 @@
 
 ### 📺 Youtube Videos
 <!-- YOUTUBE:START -->
-<!-- YOUTUBE:end -->
+<!-- YOUTUBE:END -->
 
 ### 📕 Blog Post
 <!-- BLOG-POST-LIST:START -->
