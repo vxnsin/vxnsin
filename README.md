@@ -8,11 +8,11 @@
 - [Das Ist mein intro](https://www.youtube.com/watch?v=FATIWzFqJQc)
 <!-- YOUTUBE:END -->
 
-### 📕 Blog Post
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 ![LuisKanze's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisKanze&show_icons=true&theme=radical)
 
