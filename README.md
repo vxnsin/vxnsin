@@ -12,6 +12,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+
 ![LuisKanze's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisKanze&show_icons=true&theme=radical)
 
 [![Programmier Sprache](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisKanze)](https://github.com/LuisKanze/github-readme-stats)
