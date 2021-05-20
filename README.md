@@ -14,7 +14,7 @@
 
 ![LuisKanze's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisKanze&show_icons=true&theme=radical)
 
-[![Programmier Srpache](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisKanze)](https://github.com/LuisKanze/github-readme-stats)
+[![Programmier Sprache](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisKanze)](https://github.com/LuisKanze/github-readme-stats)
 
 
 
