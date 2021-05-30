@@ -15,13 +15,13 @@
 ### Programmier Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 21 May, 2021 - 28 May, 2021
+Week: 22 May, 2021 - 29 May, 2021
 
-Java         10 hrs 5 mins   ████████████▒░░░░░░░░░░░░   48.88 % 
-JavaScript   9 hrs 4 mins    ███████████░░░░░░░░░░░░░░   44.00 % 
-JSON         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-YAML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Java         11 hrs 3 mins   █████████████▒░░░░░░░░░░░   53.79 % 
+JavaScript   8 hrs 30 mins   ██████████▒░░░░░░░░░░░░░░   41.41 % 
+YAML         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 <!--END_SECTION:waka-->
 
