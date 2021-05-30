@@ -14,6 +14,13 @@
 
 ### Programmier Stats
 <!--START_SECTION:waka-->
+```text
+Java         11 hrs 3 mins   █████████████▒░░░░░░░░░░░   53.79 % 
+JavaScript   8 hrs 30 mins   ██████████▒░░░░░░░░░░░░░░   41.41 % 
+YAML         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+```
 <!--END_SECTION:waka-->
 
 ### Github Stats
