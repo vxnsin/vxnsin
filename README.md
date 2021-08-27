@@ -15,11 +15,7 @@
 ### Programmier Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 32 mins   ██████████████████████░░░   88.08 % 
-JSON         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-YAML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Text         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Java         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
