@@ -15,8 +15,8 @@
 ### Programmier Stats
 <!--START_SECTION:waka-->
 ```text
-Java         1 hr 42 mins    ████████████████░░░░░░░░░   64.20 % 
-JavaScript   57 mins         █████████░░░░░░░░░░░░░░░░   35.80 % 
+Java         1 hr 12 mins    ██████████████░░░░░░░░░░░   55.90 % 
+JavaScript   57 mins         ███████████░░░░░░░░░░░░░░   44.10 % 
 ```
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/3bb27139-bde3-41dd-888c-96d97966e645.svg)](https://wakatime.com/@3bb27139-bde3-41dd-888c-96d97966e645)
