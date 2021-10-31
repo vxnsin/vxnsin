@@ -20,7 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiskanze&" alt="luiskanze" /></p>
 
-<h3 align="left">🖥️ Programmier Stats</h3>
+### 🖥️ Coding Stats
 <!--START_SECTION:waka-->
 ```text
 Java         1 hr 12 mins    ██████████████░░░░░░░░░░░   55.90 % 
