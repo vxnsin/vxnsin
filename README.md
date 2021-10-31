@@ -18,7 +18,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiskanze&show_icons=true&locale=de&theme=tokyonight" alt="luiskanze" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luiskanze)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuisKanze)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiskanze&" alt="luiskanze" /></p>
