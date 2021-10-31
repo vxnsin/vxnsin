@@ -15,19 +15,11 @@
     </a>
 </p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiskanze&show_icons=true&locale=de&theme=github_dark" alt="luiskanze" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuisKanze)](https://github.com/anuraghazra/github-readme-stats)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiskanze&" alt="luiskanze" /></p>
-
-## 🖥️ Coding Stats
-<!--START_SECTION:waka-->
-```text
-Java         1 hr 12 mins    ██████████████░░░░░░░░░░░   55.90 % 
-JavaScript   57 mins         ███████████░░░░░░░░░░░░░░   44.10 % 
-```
-<!--END_SECTION:waka-->
 
 ## 📊 Github Stats
 
@@ -45,4 +37,16 @@ JavaScript   57 mins         ███████████░░░░░░
 
 <br/>
 <br/>
+
+
+
+## 🖥️ Coding Stats
+<!--START_SECTION:waka-->
+```text
+Java         1 hr 12 mins    ██████████████░░░░░░░░░░░   55.90 % 
+JavaScript   57 mins         ███████████░░░░░░░░░░░░░░   44.10 % 
+```
+<!--END_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuisKanze)](https://github.com/anuraghazra/github-readme-stats)
+
 
