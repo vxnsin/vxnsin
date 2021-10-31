@@ -22,7 +22,7 @@ Java         1 hr 12 mins    ██████████████░░░
 JavaScript   57 mins         ███████████░░░░░░░░░░░░░░   44.10 % 
 ```
 <!--END_SECTION:waka-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuisKanze&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuisKanze&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📊 Github Stats
