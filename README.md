@@ -6,6 +6,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=luiskanze&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🙋‍♂️ Über mich
+
+- 🔭 Ich arbeite gerade an: ---
+
+- 📫 Ich bin erreichbar über Discord: !Code_dex#0212
+
+- ⚡ Kleiner Fun fact: **Ich Zocke gerne**
+
 <h3 align="left">Sprachen:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
