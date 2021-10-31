@@ -16,10 +16,9 @@
 </p>
 
 
+## 📊 Github Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiskanze&show_icons=true&locale=de&theme=github_dark" alt="luiskanze" /></p>
-
-## 📊 Github Stats
 
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LuisKanze&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
