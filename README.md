@@ -19,8 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiskanze&show_icons=true&locale=de&theme=github_dark" alt="luiskanze" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiskanze&" alt="luiskanze" /></p>
-
 ## 📊 Github Stats
 
   <br/>
