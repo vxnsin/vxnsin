@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, Ich bin Luis</h1>
 <h3 align="center">Mein Hobby ist es zu Programmieren</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiskanze&label=Profile%20views&color=0e75b6&style=flat" alt="luiskanze" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiskanze" alt="luiskanze" /></a> </p>
