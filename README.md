@@ -22,14 +22,13 @@
 
 <h3 align="left">🖥️ Programmier Stats</h3>
 <p align="left">
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 ```text
 Java         1 hr 12 mins    ██████████████░░░░░░░░░░░   55.90 % 
 JavaScript   57 mins         ███████████░░░░░░░░░░░░░░   44.10 % 
 ```
 <!--END_SECTION:waka-->
+  </p>
 [![wakatime](https://wakatime.com/badge/user/3bb27139-bde3-41dd-888c-96d97966e645.svg)](https://wakatime.com/@3bb27139-bde3-41dd-888c-96d97966e645)
-</p>
-
 [discord]: https://discord.gg/YwzqTEeyx9
 [discord]: https://discord.gg/s2tGMtx9Xq
