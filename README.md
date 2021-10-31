@@ -19,7 +19,7 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="Die Stats Streak von mein Profil" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisKanze&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="Die Stats Streak von mein Profil" alt="LuisKanze's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisKanze&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -37,15 +37,15 @@ JavaScript   57 mins         ███████████░░░░░░
 
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LuisKanze&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisKanze&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="LuisKanze's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LuisKanze&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="LuisKanze's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisKanze&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LuisKanze&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="LuisKanze's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LuisKanze&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
