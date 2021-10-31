@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiskanze" alt="luiskanze" /></a> </p>
 
-<h3 align="left">Kontakiere mich:</h3>
+<h3 align="left">Discord Server:</h3>
 <p align="left">
 <a href="https://discord.gg/J7m8kCTzJF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="J7m8kCTzJF" height="30" width="40" /></a>
 </p>
