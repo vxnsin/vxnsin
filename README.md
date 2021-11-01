@@ -27,7 +27,7 @@
 </p>
 
 ## 🖥️ Coding Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuisKanze&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuisKanze&layout=compact&theme=black-ice&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projekte
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisKanze&repo=LuisKanze)](https://github.com/anuraghazra/github-readme-stats)
