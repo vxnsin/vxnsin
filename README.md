@@ -25,6 +25,8 @@
         <img title="Die Stats Streak von mein Profil" alt="LuisKanze's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisKanze&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+## 🖥️ Coding Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuisKanze&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 
