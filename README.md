@@ -26,8 +26,7 @@
 ## 🖥️ Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Java         1 hr 12 mins    ██████████████░░░░░░░░░░░   55.90 % 
-JavaScript   57 mins         ███████████░░░░░░░░░░░░░░   44.10 % 
+Java   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuisKanze&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
