@@ -1,5 +1,4 @@
 
-<a href="https://fontmeme.com/de/twitch-logo-schriftart/"><img src="https://fontmeme.com/permalink/211101/f3cbd6c7cf2ed323eaab488aa7278db5.png" align="center" alt="twitch-logo-schriftart" border="0"></a>
 <h1 align="center">Hey 👋, Ich bin Luis</h1>
 <h3 align="center">Mein Hobby ist es zu Programmieren</h3>
 
