@@ -7,7 +7,8 @@
 [![wakatime](https://wakatime.com/badge/user/3bb27139-bde3-41dd-888c-96d97966e645.svg)](https://wakatime.com/@3bb27139-bde3-41dd-888c-96d97966e645)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiskanze&label=Profile%20views&color=0e75b6&style=flat" alt="luiskanze" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LuisKanze)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LuisKanze&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 🙋‍♂️ Über mich
 
