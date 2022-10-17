@@ -14,7 +14,7 @@
 
 - 🔭 Ich arbeite gerade an: ---
 
-- 📫 Ich bin erreichbar über Discord: !Code_dex#0212
+- 📫 Ich bin erreichbar über Discord: CODE_DΞX#0212
 
 - ⚡ Kleiner Fun fact: **Ich Zocke gerne**
 
