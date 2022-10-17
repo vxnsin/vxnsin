@@ -14,7 +14,7 @@
 
 - 🔭 Ich arbeite gerade an: ---
 
-- 📫 Ich bin erreichbar über Discord: [Mein Profil](discordapp.com/users/531896089096486922)
+- 📫 Ich bin erreichbar über Discord: [Profil](discordapp.com/users/531896089096486922)
 
 - ⚡ Kleiner Fun fact: **Ich Zocke gerne**
 
