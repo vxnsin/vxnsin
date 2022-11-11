@@ -7,15 +7,8 @@
 [![wakatime](https://wakatime.com/badge/user/3bb27139-bde3-41dd-888c-96d97966e645.svg)](https://wakatime.com/@3bb27139-bde3-41dd-888c-96d97966e645)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiskanze&label=Profile%20views&color=0e75b6&style=flat" alt="luiskanze" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LuisKanze&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://github.com/LuisKanze/LuisKanze/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
-
-## 🙋‍♂️ Über mich
-
-- 🔭 Ich arbeite gerade an: ---
-
-- ⚡ Kleiner Fun fact: **Ich Zocke gerne**
 
 <h3 align="left">Erreichbar:</h3>
 <p align="left">
@@ -30,30 +23,11 @@
     </a>
 </p>
 
-## 🖥️ Coding Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuisKanze&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/LuisKanze/LuisKanze)
-
-## Projekte
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisKanze&repo=LuisKanze&theme=github_dark)](https://github.com/LuisKanze/LuisKanze)
-
-
-
-## 📊 Github Stats
-
-
-  <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="LuisKanze's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LuisKanze&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="LuisKanze's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisKanze&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="LuisKanze's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LuisKanze&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+<a href="">
+  <p align="center">
+    <img align="center" src="https://lanyard.cnrad.dev/api/531896089096486922" />
+  </p>
+</a>
 
 
 
