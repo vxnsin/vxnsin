@@ -9,7 +9,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LuisKanze&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<img src="https://github.com/LuisKanze/LuisKanze/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 
 ## 🙋‍♂️ Über mich
 
