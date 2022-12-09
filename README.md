@@ -1,4 +1,4 @@
-<p align="center"> Hey, mein Name ist Luis, Ich programmiere gerne mit: Java, Javascript und HTML. </p align="center">
+<p align="center"> Hey, mein Name ist Luis, Ich programmiere gerne mit: Java, Javascript, Python. CSS, C#, C++, PHP </p align="center">
 <p align="center">
 
 </p align="center">
