@@ -18,9 +18,10 @@
 <img src="https://github.com/CodedexC/CodedexC/blob/main/picture/rep.gif" />
   </p align="center">
 <!--- Stat Github --->
-![](https://raw.githubusercontent.com/CodedexC/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/CodedexC/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-</h2>
+<a href="https://github.com/CodedexC/github-stats#gh-dark-mode-only">
+<img src="https://github.com/CodedexC/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/CodedexC/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 <br>
 <br>
 <br>
