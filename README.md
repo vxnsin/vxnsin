@@ -19,8 +19,8 @@
   </p align="center">
 <!--- Stat Github --->
 <a href="https://github.com/CodedexC/github-stats#gh-dark-mode-only">
-<img src="https://github.com/CodedexC/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/CodedexC/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img align="center" src="https://github.com/CodedexC/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img align="center" src="https://github.com/CodedexC/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 <br>
 <br>
