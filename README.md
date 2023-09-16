@@ -19,7 +19,7 @@
   </p align="center">
 <!--- Stat Github --->
 ![](https://raw.githubusercontent.com/CodedexC/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-<img align="right" width="359" height="auto" alt="CodedexC's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedexC&hide=_border=true&title_color=0088ffc&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
+![](https://raw.githubusercontent.com/CodedexC/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 </h2>
 <br>
 <br>
