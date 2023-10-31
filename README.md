@@ -1,11 +1,6 @@
-<h3 align="center">
-    Hi
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="34"
-         width="35" />
-    Ich bin Luis!
-</h3>
+<p align="center">
+<a href="https://github.com/vxsin"><img src="https://readme-typing-svg.demolab.com?font=Minecraftia&pause=1000&center=true&vCenter=true&random=false&width=434&lines=%F0%9F%91%8B+my+name+is+Luis;Join+my+server+Velane.net;I+%E2%99%A5%EF%B8%8F+Java" alt="Typing SVG" /></a>
+</p>
 <a href="">
   <p align="center">
     <img align="center" src="https://lanyard.cnrad.dev/api/531896089096486922?borderRadius=30px" />
