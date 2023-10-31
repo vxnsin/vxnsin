@@ -17,6 +17,4 @@
 <img src="https://github.com/vxnsin/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
     </p>
 </a>
-<picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg">
