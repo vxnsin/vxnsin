@@ -18,6 +18,10 @@
 <img src="https://github.com/vxnsin/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/vxnsin/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
          </p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </a>
 <br>
 <br>
