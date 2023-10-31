@@ -6,8 +6,6 @@
     <img align="center" src="https://lanyard.cnrad.dev/api/531896089096486922?borderRadius=30px" />
   </p>
 </a>
-
-</p align="center">
 <!--- Picture --->
 <p align="center">
 <img src="https://github.com/vxnsin/vxnsin/blob/main/picture/rep.gif" />
@@ -15,18 +13,11 @@
 <!--- Stat Github --->
 <a href="https://github.com/vxnsin/github-stats#gh-dark-mode-only">
     <p align="center">
-<img src="https://github.com/vxnsin/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/vxnsin/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-         </p align="center">
+<img src="https://github.com/vxnsin/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
+<img src="https://github.com/vxnsin/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
+    </p>
 </a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vxsin/vxsin/output/github-contribution-grid-snake.svg">
 </picture>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
