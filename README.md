@@ -6,6 +6,7 @@
     <img align="center" src="https://lanyard.cnrad.dev/api/531896089096486922?borderRadius=30px" />
   </p>
 </a>
+[![wakatime](https://wakatime.com/badge/user/3bb27139-bde3-41dd-888c-96d97966e645.svg)](https://wakatime.com/@3bb27139-bde3-41dd-888c-96d97966e645)
 <!--- Picture --->
 <p align="center">
 <img src="https://github.com/vxnsin/vxnsin/blob/main/picture/rep.gif" />
