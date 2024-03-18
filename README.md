@@ -14,6 +14,7 @@ Other   34 hrs 45 mins  ██████████████████�
 ```
 
 <!--END_SECTION:waka-->
+
 <!--- Picture --->
 <p align="center">
 <img src="https://github.com/vxnsin/vxnsin/blob/main/picture/rep.gif" />
