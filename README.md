@@ -4,7 +4,6 @@
 <a href="">
   <p align="center">
     <img align="center" src="https://lanyard.cnrad.dev/api/531896089096486922?borderRadius=30px" />
-    [![wakatime](https://wakatime.com/badge/user/3bb27139-bde3-41dd-888c-96d97966e645.svg)](https://wakatime.com/@3bb27139-bde3-41dd-888c-96d97966e645)
   </p>
 </a>
 <!--- Picture --->
@@ -12,6 +11,7 @@
 <img src="https://github.com/vxnsin/vxnsin/blob/main/picture/rep.gif" />
   </p align="center">
 <!--- Stat Github --->
+[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
 <a href="https://github.com/vxnsin/github-stats#gh-dark-mode-only">
     <p align="center">
 <img src="https://github.com/vxnsin/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
