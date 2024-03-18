@@ -6,9 +6,6 @@
     <img align="center" src="https://lanyard.cnrad.dev/api/531896089096486922?borderRadius=30px" />
   </p>
 </a>
--------
-
-📊 **Weekly development**
 <!--START_SECTION:waka-->
 
 ```txt
@@ -17,7 +14,6 @@ Other   34 hrs 45 mins  ██████████████████�
 
 <!--END_SECTION:waka-->
 
--------
 <!--- Picture --->
 <p align="center">
 <img src="https://github.com/vxnsin/vxnsin/blob/main/picture/rep.gif" />
