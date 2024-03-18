@@ -7,9 +7,11 @@
   </p>
 </a>
 <!--START_SECTION:waka-->
+
 ```txt
 Other   34 hrs 45 mins  █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
 <!--- Picture --->
 <p align="center">
