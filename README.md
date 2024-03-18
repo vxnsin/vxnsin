@@ -6,21 +6,16 @@
     <img align="center" src="https://lanyard.cnrad.dev/api/531896089096486922?borderRadius=30px" />
   </p>
 </a>
--------
 <!--START_SECTION:waka-->
-
 ```txt
 Other   34 hrs 45 mins  █████████████████████████   100.00 %
 ```
-
 <!--END_SECTION:waka-->
--------
 <!--- Picture --->
 <p align="center">
 <img src="https://github.com/vxnsin/vxnsin/blob/main/picture/rep.gif" />
   </p align="center">
 <!--- Stat Github --->
--------
 <a href="https://github.com/vxnsin/github-stats#gh-dark-mode-only">
     <p align="center">
 <img src="https://github.com/vxnsin/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
