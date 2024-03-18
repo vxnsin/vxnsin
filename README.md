@@ -1,7 +1,6 @@
 <p align="center">
 <a href="https://github.com/vxsin"><img src="https://readme-typing-svg.demolab.com?font=Minecraftia&pause=1000&center=true&vCenter=true&random=false&width=434&lines=%F0%9F%91%8B+my+name+is+Luis;I+%E2%99%A5%EF%B8%8F+Java" alt="Typing SVG" /></a>
 </p>
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
 <a href="">
   <p align="center">
     <img align="center" src="https://lanyard.cnrad.dev/api/531896089096486922?borderRadius=30px" />
