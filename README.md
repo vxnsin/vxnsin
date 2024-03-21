@@ -24,9 +24,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
   </p align="center">
 <!--- Stat Github --->
 <a href="https://github.com/vxnsin/github-stats#gh-dark-mode-only">
-    <p align="center">
-<img src="https://github.com/vxnsin/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
-<img src="https://github.com/vxnsin/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
-    </p>
-</a>
+<img src="https://github.com/vxnsin/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/vxnsin/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg">
