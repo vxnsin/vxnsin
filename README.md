@@ -30,5 +30,3 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 </p>
 </a>
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg">
-
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg">
