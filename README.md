@@ -7,7 +7,7 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-840%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-840%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-150-blue)
 
@@ -50,9 +50,7 @@ Sunday                   199 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JSON                     59 mins             ███████████████████░░░░░░   74.81 % 
-JavaScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-TOML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Other                    6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,6 +65,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/04/2024 00:29:57 UTC
+ Last Updated on 04/04/2024 00:31:13 UTC
 <!--END_SECTION:waka-->
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg">
