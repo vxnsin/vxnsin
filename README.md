@@ -7,7 +7,7 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -17,7 +17,7 @@
 
 > 📦 98.4 kB Used in GitHub's Storage 
  > 
-> 🏆 58 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,11 +52,11 @@ Sunday                   269 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JSON                     1 hr 16 mins        █████████████░░░░░░░░░░░░   52.79 % 
-Java                     38 mins             ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-JavaScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+JSON                     1 hr 26 mins        ██████████████░░░░░░░░░░░   55.98 % 
+Java                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+JavaScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 **I Mostly Code in Java** 
@@ -70,6 +70,6 @@ HTML                     5 repos             ██████░░░░░�
 
 
 
- Last Updated on 25/04/2024 00:32:43 UTC
+ Last Updated on 26/04/2024 00:31:04 UTC
 <!--END_SECTION:waka-->
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg">
