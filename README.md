@@ -7,7 +7,7 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -52,10 +52,10 @@ Sunday                   317 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               5 hrs 11 mins       ███████████████████████░░   90.57 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+JavaScript               5 hrs 39 mins       ███████████████████████░░   92.72 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
@@ -70,6 +70,6 @@ HTML                     5 repos             ██████░░░░░�
 
 
 
- Last Updated on 11/05/2024 00:31:08 UTC
+ Last Updated on 12/05/2024 00:35:13 UTC
 <!--END_SECTION:waka-->
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg">
