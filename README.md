@@ -7,9 +7,9 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-864%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
@@ -23,7 +23,7 @@
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -52,9 +52,10 @@ Sunday                   317 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               4 hrs 53 mins       █████████████████████████   99.09 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JavaScript               9 hrs 8 mins        ██████████████████████░░░   87.21 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
@@ -69,6 +70,6 @@ HTML                     5 repos             █████░░░░░░�
 
 
 
- Last Updated on 19/05/2024 00:35:18 UTC
+ Last Updated on 20/05/2024 00:32:56 UTC
 <!--END_SECTION:waka-->
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg">
