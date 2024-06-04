@@ -7,7 +7,7 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-883%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-883%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -16,6 +16,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 154.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 65 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,7 +52,7 @@ Sunday                   374 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -64,6 +66,6 @@ HTML                     5 repos             █████░░░░░░�
 
 
 
- Last Updated on 04/06/2024 00:32:58 UTC
+ Last Updated on 04/06/2024 07:57:45 UTC
 <!--END_SECTION:waka-->
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg">
