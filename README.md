@@ -1,10 +1,4 @@
-<p align="center">
-</p>
-<a href="">
-  <p align="center">
-    <img align="center" src="https://lanyard.cnrad.dev/api/531896089096486922?borderRadius=30px" />
-  </p>
-</a>
+![Discord Status](https://lanyard.cnrad.dev/api/531896089096486922?borderRadius=30px)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-883%20hrs%2018%20mins-blue)
@@ -68,7 +62,5 @@ HTML                     5 repos             █████░░░░░░�
 
  Last Updated on 15/06/2024 00:33:30 UTC
 <!--END_SECTION:waka-->
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg">
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=vxnsin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vxnsin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
