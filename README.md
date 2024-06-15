@@ -69,3 +69,4 @@ HTML                     5 repos             █████░░░░░░�
  Last Updated on 15/06/2024 00:33:30 UTC
 <!--END_SECTION:waka-->
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg">
+[![trophy](https://github-profile-trophy.vercel.app/?vxnsin=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
