@@ -1,5 +1,6 @@
+<!-- Discord Status -->
 <p align="center">
-![Discord Status](https://lanyard.cnrad.dev/api/531896089096486922?borderRadius=30px)
+  <img src="https://lanyard.cnrad.dev/api/531896089096486922?borderRadius=30px" alt="Discord Status" />
 </p>
 
 <!--START_SECTION:waka-->
@@ -64,5 +65,16 @@ HTML                     5 repos             █████░░░░░░�
 
  Last Updated on 15/06/2024 00:33:30 UTC
 <!--END_SECTION:waka-->
-![GitHub Contribution Snake](https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=vxnsin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- GitHub Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+
+<!-- GitHub Trophy -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vxnsin&theme=onedark" alt="trophy" />
+  </a>
+</p>
