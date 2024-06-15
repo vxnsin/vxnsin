@@ -71,7 +71,6 @@ HTML                     5 repos             █████░░░░░░�
   <img src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
-
 <!-- GitHub Trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
