@@ -1,4 +1,6 @@
+<p align="center">
 ![Discord Status](https://lanyard.cnrad.dev/api/531896089096486922?borderRadius=30px)
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-883%20hrs%2018%20mins-blue)
