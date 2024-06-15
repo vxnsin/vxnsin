@@ -17,6 +17,8 @@
 
 > 📦 154.2 kB Used in GitHub's Storage 
  > 
+> 🏆 65 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -50,7 +52,7 @@ Sunday                   374 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -64,6 +66,6 @@ HTML                     5 repos             █████░░░░░░�
 
 
 
- Last Updated on 14/06/2024 00:33:17 UTC
+ Last Updated on 15/06/2024 00:33:30 UTC
 <!--END_SECTION:waka-->
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg">
