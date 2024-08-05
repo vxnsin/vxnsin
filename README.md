@@ -4,7 +4,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-904%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-905%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -13,6 +13,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 156.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 72 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,9 +49,8 @@ Sunday                   402 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               20 mins             ████████████░░░░░░░░░░░░░   47.62 % 
-JSON                     11 mins             ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Other                    10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+JSON                     44 mins             ██████████████░░░░░░░░░░░   57.94 % 
+JavaScript               32 mins             ███████████░░░░░░░░░░░░░░   42.06 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,7 +64,7 @@ HTML                     4 repos             ████░░░░░░░�
 
 
 
- Last Updated on 04/08/2024 00:38:51 UTC
+ Last Updated on 05/08/2024 00:37:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Contribution Snake -->
