@@ -4,9 +4,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-917%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-918%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
@@ -49,11 +49,11 @@ Sunday                   402 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     8 hrs 2 mins        ██████████████████████░░░   87.55 % 
-XML                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Java                     9 hrs 19 mins       ██████████████████████░░░   87.83 % 
+XML                      53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -68,7 +68,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2024 00:34:54 UTC
+ Last Updated on 18/08/2024 00:39:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Contribution Snake -->
