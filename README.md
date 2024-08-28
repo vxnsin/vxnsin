@@ -14,8 +14,6 @@
 
 > 📦 156.5 kB Used in GitHub's Storage 
  > 
-> 🏆 72 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -49,9 +47,7 @@ Sunday                   412 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     47 mins             ██████████████████░░░░░░░   72.65 % 
-YAML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-XML                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Java                     0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -66,7 +62,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2024 00:36:58 UTC
+ Last Updated on 28/08/2024 00:36:50 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Contribution Snake -->
