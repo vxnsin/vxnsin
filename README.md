@@ -4,7 +4,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-920%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-923%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -49,7 +49,10 @@ Sunday                   412 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 42 mins       ████████████████████░░░░░   79.16 % 
+JSON                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,7 +66,7 @@ HTML                     4 repos             ████░░░░░░░�
 
 
 
- Last Updated on 03/09/2024 00:37:17 UTC
+ Last Updated on 04/09/2024 00:38:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Contribution Snake -->
