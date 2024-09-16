@@ -49,8 +49,7 @@ Sunday                   412 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Lua                      42 mins             ███████████████████████░░   92.75 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -64,7 +63,7 @@ HTML                     4 repos             ████░░░░░░░�
 
 
 
- Last Updated on 15/09/2024 00:43:26 UTC
+ Last Updated on 16/09/2024 00:41:14 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Contribution Snake -->
