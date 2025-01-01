@@ -1,85 +1,32 @@
-<!-- Discord Status -->
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/531896089096486922?borderRadius=30px" alt="Discord Status" />
-</p>
+<div align="center">
+  <a href="https://github.com/max1mde/fancy-readme-stats" target="_blank">
+      <img src="https://fancy-readme-stats.vercel.app/api?username=vxnsin&title=𝓥𝓮𝓷𝓼𝓲𝓷&theme=forest_winter&dark_bg=3&hide_border=false&height=210&description=I watch the Moon&footer=@vxnsin%20over%20the%20whole%20Internet&include_all_commits=true&update=2">
+  </a>
+</div>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C274%20hrs%2040%20mins-blue)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=About+me)]()<br>
+### 👋 Hi, I’m Luis!  
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+I’ve been **coding for over 7 years**, and I love exploring all kinds of projects – from web stuff to experimenting with new ideas.  
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
+✨ When I’m not coding, you’ll probably find me **watching anime**, **listening to music**, or thinking about my next project.  
 
-**🐱 My GitHub Data** 
-
-> 📦 156.3 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-🌆 Daytime                423 commits         ███████████░░░░░░░░░░░░░░   43.16 % 
-🌃 Evening                382 commits         ██████████░░░░░░░░░░░░░░░   38.98 % 
-🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   212 commits         █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-Tuesday                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Wednesday                61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Thursday                 171 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Friday                   94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Saturday                 175 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Sunday                   201 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-```
+🎶 Check out my favorite song [here](https://open.spotify.com/intl-de/track/0MnTkIEP4zZN1IUSu8MvIz?si=1a043b5dbb454a81)!
 
 
-📊 **This Week I Spent My Time On** 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Tech+stack)]()<br>
+| **Category**             | **Tools & Languages**                                                                                                                                                                            |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **🛠️ Development Tools**   | ![Maven](https://img.shields.io/badge/Maven-%232C2D72.svg?style=for-the-badge&logo=maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%232C2D72.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-%232C2D72.svg?style=for-the-badge&logo=mariadb&logoColor=white) ![Termius](https://img.shields.io/badge/Termius-%232C2D72.svg?style=for-the-badge&logo=termius&logoColor=white)  |
+| **⚙️ Frameworks & Libraries** | [![Node.js](https://img.shields.io/badge/Node.js-%232C2D72.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) ![Express.js](https://img.shields.io/badge/Express.js-%232C2D72.svg?style=for-the-badge&logo=express&logoColor=white) |
+| **💻 Languages**           | ![Java](https://img.shields.io/badge/Java-%232C2D72.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%232C2D72.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-%232C2D72.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%232C2D72.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%232C2D72.svg?style=for-the-badge&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  |
+| **🖥️ Code Editors & IDEs** | ![VSCode](https://img.shields.io/badge/VSCode-%232C2D72.svg?style=for-the-badge&logo=javascript&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%232C2D72.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-%232C2D72.svg?style=for-the-badge&logo=pycharm&logoColor=white) |
 
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Other                    32 hrs 24 mins      ██████████████░░░░░░░░░░░   57.72 % 
-Java                     17 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   30.66 % 
-XML                      3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-YAML                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Groovy                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               10 repos            █████████░░░░░░░░░░░░░░░░   34.48 % 
-Java                     9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Lua                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Elixir                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-
-
-
-
- Last Updated on 01/01/2025 00:45:02 UTC
-<!--END_SECTION:waka-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
+<!--START_SECTION:recent_anime-->
+<!--END_SECTION:recent_anime-->
 
 <!-- GitHub Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<!-- GitHub Trophy -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vxnsin&theme=onedark" alt="trophy" />
-  </a>
 </p>
