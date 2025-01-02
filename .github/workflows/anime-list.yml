@@ -5,8 +5,8 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 0 * * *'  
-  workflow_dispatch:  
+    - cron: '0 0 * * *'  # Every day at midnight UTC
+  workflow_dispatch:  # Manually trigger workflow
 
 jobs:
   update-anime-list:
@@ -27,16 +27,19 @@ jobs:
     - name: Run Anime List
       run: node anime-list.js  
 
-    - name: Pull latest changes from remote (avoid push rejection)
-      run: |
-        git pull origin master --rebase
-
-    - name: Commit & Push changes to README.md
+    - name: Commit changes to README.md (if any)
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add README.md
-        git commit -m "Update anime list in README" || echo "No changes to commit"
+        git commit -m "Update Recently Watched Anime" || echo "No changes to commit"
+
+    - name: Pull latest changes from remote (avoid push rejection)
+      run: |
+        git pull origin master --rebase
+
+    - name: Push changes to README.md
+      run: |
         git push origin master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
