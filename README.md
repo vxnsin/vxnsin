@@ -41,7 +41,7 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 | **The Eminence in Shadow**          | 8.5/10     |
 | **Seraph of the End**               | 8/10       |
 | **The World’s Finest Assassin**     | 8/10       |
-| **Mushoku Tensei: Jobless Reincarnation**| 7.5/10 |
+| **Mushoku Tensei: Jobless Reincarnation**| 8/10 |
 
 
 <!-- GitHub Contribution Snake -->
