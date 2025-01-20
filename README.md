@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **Shangri-La Frontier** - S2 E12
 - **Blue Archive: The Animation** - S1 E8
 - **Blue Archive: The Animation** - S1 E7
 - **Sakamoto Days** - S1 E2
 - **Blue Archive: The Animation** - S1 E6
-- **Blue Archive: The Animation** - S1 E5
 
 <!--END_SECTION:recent_anime-->
 
