@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
-- **Saga of Tanya the Evil** - SN/A EN/A
-- **Saga of Tanya the Evil** - S1 E12
-- **Saga of Tanya the Evil** - S1 E11
-- **Saga of Tanya the Evil** - S1 E10
-- **Saga of Tanya the Evil** - S1 E9
+- **Hunter x Hunter** - S1 E15
+- **Hunter x Hunter** - S1 E14
+- **Hunter x Hunter** - S1 E13
+- **Hunter x Hunter** - S1 E12
+- **Hunter x Hunter** - S1 E11
 
 <!--END_SECTION:recent_anime-->
 
