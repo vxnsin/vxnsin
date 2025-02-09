@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **Solo Leveling** - S2 E3
 - **Shikimori's Not Just a Cutie** - S1 E6
 - **Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense** - S2 E12
 - **Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense** - S2 E11
 - **Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense** - S2 E10
-- **Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense** - S2 E9
 
 <!--END_SECTION:recent_anime-->
 
