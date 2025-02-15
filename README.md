@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **Overlord** - S4 E4
+- **Shikimori's Not Just a Cutie** - S1 E11
+- **Shikimori's Not Just a Cutie** - S1 E10
 - **Shikimori's Not Just a Cutie** - S1 E9
 - **Shikimori's Not Just a Cutie** - S1 E8
-- **Shikimori's Not Just a Cutie** - S1 E7
-- **Sakamoto Days** - S1 E5
-- **Shangri-La Frontier** - S2 E15
 
 <!--END_SECTION:recent_anime-->
 
