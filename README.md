@@ -27,8 +27,8 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 - **Gushing over Magical Girls** - S1 E13
 - **Gushing over Magical Girls** - S1 E12
 - **Gushing over Magical Girls** - S1 E11
-- **Sakamoto Days** - S1 E6
 - **Gushing over Magical Girls** - S1 E9
+- **Gushing over Magical Girls** - S1 E10
 
 <!--END_SECTION:recent_anime-->
 
