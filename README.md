@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **Death Note** - S1 E2
+- **I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time** - S1 E5
+- **Solo Leveling** - S2 E6
 - **Re:ZERO - Starting Life in Another World** - S3 E9
 - **Possibly the Greatest Alchemist of All Time** - S1 E6
-- **Shikimori's Not Just a Cutie** - S1 E12
-- **Interspecies Reviewers** - S1 E9
-- **Interspecies Reviewers** - S1 E10
 
 <!--END_SECTION:recent_anime-->
 
