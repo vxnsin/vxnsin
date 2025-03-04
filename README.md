@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
-- **Death Note** - S1 E25
-- **Death Note** - S1 E24
-- **Death Note** - S1 E23
-- **Death Note** - S1 E22
-- **Death Note** - S1 E21
+- **Death Note** - S1 E32
+- **Death Note** - S1 E31
+- **Death Note** - S1 E30
+- **Death Note** - S1 E29
+- **Death Note** - S1 E28
 
 <!--END_SECTION:recent_anime-->
 
