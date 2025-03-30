@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **Tokyo Ghoul** - S1 E3
+- **Tokyo Ghoul** - S1 E2
+- **Tokyo Ghoul** - S1 E1
+- **Solo Leveling** - S2 E10
 - **The Greatest Demon Lord Is Reborn as a Typical Nobody** - S1 E11
-- **Re:ZERO - Starting Life in Another World** - S3 E13
-- **Possibly the Greatest Alchemist of All Time** - S1 E10
-- **Shangri-La Frontier** - S2 E21
-- **Shangri-La Frontier** - S2 E20
 
 <!--END_SECTION:recent_anime-->
 
