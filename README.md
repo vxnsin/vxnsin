@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **Shangri-La Frontier** - S2 E23
+- **Shangri-La Frontier** - S2 E22
+- **Yandere Dark Elf: She Chased Me All The Way From Another World** - S1 E1
 - **Solo Leveling** - S2 E13
 - **Solo Leveling** - S2 E12
-- **Solo Leveling** - S2 E11
-- **Please Put Them On, Takamine-san** - S1 E1
-- **Arifureta: From Commonplace to World’s Strongest** - S1 E6
 
 <!--END_SECTION:recent_anime-->
 
