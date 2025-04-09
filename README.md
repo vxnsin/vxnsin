@@ -26,9 +26,9 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 <!--START_SECTION:recent_anime-->
 - **Shangri-La Frontier** - S2 E23
 - **Shangri-La Frontier** - S2 E22
-- **Yandere Dark Elf: She Chased Me All The Way From Another World** - S1 E1
 - **Solo Leveling** - S2 E13
 - **Solo Leveling** - S2 E12
+- **Solo Leveling** - S2 E11
 
 <!--END_SECTION:recent_anime-->
 
