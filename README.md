@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **Demon Slayer: Kimetsu no Yaiba** - S2 E4
+- **Demon Slayer: Kimetsu no Yaiba** - S2 E3
+- **Demon Slayer: Kimetsu no Yaiba** - S2 E2
+- **Demon Slayer: Kimetsu no Yaiba** - S2 E1
 - **Arifureta: From Commonplace to World’s Strongest** - S1 E8
-- **Arifureta: From Commonplace to World’s Strongest** - S1 E7
-- **The Dreaming Boy Is a Realist** - S1 E2
-- **The Dreaming Boy Is a Realist** - S1 E1
-- **Shangri-La Frontier** - S2 E23
 
 <!--END_SECTION:recent_anime-->
 
