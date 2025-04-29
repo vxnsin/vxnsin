@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **Charlotte** - S1 E4
+- **Charlotte** - S1 E3
+- **I've Been Killing Slimes for 300 Years and Maxed Out My Level** - S2 E1
 - **Re:ZERO - Starting Life in Another World** - S3 E16
 - **Re:ZERO - Starting Life in Another World** - S3 E15
-- **Re:ZERO - Starting Life in Another World** - S3 E14
-- **Harem in the Labyrinth of Another World** - S1 E7
-- **Harem in the Labyrinth of Another World** - S1 E6
 
 <!--END_SECTION:recent_anime-->
 
