@@ -11,8 +11,6 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 ✨ When I’m not coding, you’ll probably find me **watching anime**, **listening to music**, or thinking about my next project.  
 
-🎶 Check out my favorite song [here](https://open.spotify.com/intl-de/track/0MnTkIEP4zZN1IUSu8MvIz?si=1a043b5dbb454a81)!
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Tech+stack)]()<br>
 | **Category**             | **Tools & Languages**                                                                                                                                                                            |
