@@ -26,11 +26,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
-- **I've Been Killing Slimes for 300 Years and Maxed Out My Level** - S2 E4
-- **I've Been Killing Slimes for 300 Years and Maxed Out My Level** - S2 E3
-- **I've Been Killing Slimes for 300 Years and Maxed Out My Level** - S2 E2
-- **KonoSuba: God’s blessing on this wonderful world!** - S2 E6
-- **KonoSuba: God’s blessing on this wonderful world!** - S2 E5
+- **Fire Force** - S3 E2
+- **Fire Force** - S3 E1
+- **Akame ga Kill!** - S1 E24
+- **Akame ga Kill!** - S1 E23
+- **Akame ga Kill!** - S1 E22
 
 <!--END_SECTION:recent_anime-->
 
