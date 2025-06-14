@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **Fire Force** - S3 E6
+- **WIND BREAKER** - S2 E8
+- **WIND BREAKER** - S2 E7
 - **Charlotte** - S1 E5
 - **Kakushite! Makina-san!!** - S1 E1
-- **Call of the Night** - S1 E10
-- **Call of the Night** - S1 E9
-- **Call of the Night** - S1 E8
 
 <!--END_SECTION:recent_anime-->
 
