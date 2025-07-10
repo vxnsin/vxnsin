@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
-- **Hunter x Hunter** - S2 E2
-- **Hunter x Hunter** - S2 E1
-- **Hunter x Hunter** - S1 E62
-- **WIND BREAKER** - S2 E10
-- **WIND BREAKER** - S2 E9
+- **Rascal Does Not Dream of Bunny Girl Senpai** - S1 E6
+- **Rascal Does Not Dream of Bunny Girl Senpai** - S1 E5
+- **Rascal Does Not Dream of Bunny Girl Senpai** - S1 E4
+- **Rascal Does Not Dream of Bunny Girl Senpai** - S1 E3
+- **Rascal Does Not Dream of Bunny Girl Senpai** - S1 E2
 
 <!--END_SECTION:recent_anime-->
 
