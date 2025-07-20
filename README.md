@@ -24,11 +24,11 @@ I’ve been **coding for over 8 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **The Testament of Sister New Devil** - S1 E1
 - **Fire Force** - S3 E11
 - **Fire Force** - S3 E10
 - **Fire Force** - S3 E9
 - **Fire Force** - S3 E8
-- **Rascal Does Not Dream of Bunny Girl Senpai** - S1 E8
 
 <!--END_SECTION:recent_anime-->
 
