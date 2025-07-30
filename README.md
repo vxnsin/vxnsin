@@ -26,9 +26,9 @@ I’ve been **coding for over 8 years**, and I love exploring all kinds of proje
 <!--START_SECTION:recent_anime-->
 - **Overlord** - SN/A EN/A
 - **Overlord** - SN/A EN/A
+- **Overlord** - SN/A EN/A
 - **Fire Force** - S3 E12
 - **The Testament of Sister New Devil** - S1 E2
-- **The Testament of Sister New Devil** - S1 E1
 
 <!--END_SECTION:recent_anime-->
 
