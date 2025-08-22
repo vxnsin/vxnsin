@@ -24,11 +24,11 @@ I’ve been **coding for over 8 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
-- **The Quintessential Quintuplets** - S1 E3
-- **The Quintessential Quintuplets** - S1 E2
-- **The Quintessential Quintuplets** - S1 E1
-- **Sakamoto Days** - S1 E17
-- **BULLET/BULLET** - S1 E12
+- **The Quintessential Quintuplets** - S2 E8
+- **The Quintessential Quintuplets** - S2 E7
+- **The Quintessential Quintuplets** - S2 E6
+- **The Quintessential Quintuplets** - S2 E5
+- **The Quintessential Quintuplets** - S2 E4
 
 <!--END_SECTION:recent_anime-->
 
