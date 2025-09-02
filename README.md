@@ -24,11 +24,11 @@ I’ve been **coding for over 8 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **To Be Hero X** - S1 E20
+- **To Be Hero X** - S1 E19
+- **To Be Hero X** - S1 E18
+- **To Be Hero X** - S1 E17
 - **To Be Hero X** - S1 E16
-- **To Be Hero X** - S1 E15
-- **To Be Hero X** - S1 E14
-- **To Be Hero X** - S1 E13
-- **My Dress-Up Darling** - S2 E2
 
 <!--END_SECTION:recent_anime-->
 
