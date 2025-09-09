@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=About+me)]()<br>
 ### 👋 Hi, I’m Luis!  
 
-I’ve been **coding for over 8 years**, and I love exploring all kinds of projects – from web stuff to experimenting with new ideas.  
+I’ve been **coding for over 7 years**, and I love exploring all kinds of projects – from web stuff to experimenting with new ideas.  
 
 ✨ When I’m not coding, you’ll probably find me **watching anime**, **listening to music**, or thinking about my next project.  
 
