@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **Call of the Night** - S1 E13
+- **Call of the Night** - S1 E12
 - **Call of the Night** - S1 E11
 - **Sakamoto Days** - S1 E21
 - **Sakamoto Days** - S1 E20
-- **Sakamoto Days** - S1 E19
-- **Sakamoto Days** - S1 E18
 
 <!--END_SECTION:recent_anime-->
 
