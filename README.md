@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability** - S2 E9
+- **I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability** - S2 E8
 - **Call of the Night** - S1 E13
 - **Call of the Night** - S1 E12
 - **Call of the Night** - S1 E11
-- **Sakamoto Days** - S1 E21
-- **Sakamoto Days** - S1 E20
 
 <!--END_SECTION:recent_anime-->
 
