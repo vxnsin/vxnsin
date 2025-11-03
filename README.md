@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
-- **SPY x FAMILY** - S3 E2
-- **The Dangers in My Heart** - S2 E1
-- **SPY x FAMILY** - S3 E1
-- **A Gatherer's Adventure in Isekai** - S1 E2
-- **A Gatherer's Adventure in Isekai** - S1 E1
+- **Hunter x Hunter** - S2 E14
+- **Hunter x Hunter** - S2 E13
+- **Hunter x Hunter** - S2 E12
+- **Hunter x Hunter** - S2 E11
+- **Hunter x Hunter** - S2 E10
 
 <!--END_SECTION:recent_anime-->
 
