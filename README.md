@@ -24,11 +24,11 @@ I’ve been **coding for over 7 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
-- **Fire Force** - S3 E18
-- **Fire Force** - S3 E17
-- **Fire Force** - S3 E16
-- **Jujutsu Kaisen** - S3 E2
-- **Jujutsu Kaisen** - S3 E1
+- **Lookism** - S1 E8
+- **Lookism** - S1 E7
+- **Lookism** - S1 E6
+- **Lookism** - S1 E5
+- **Lookism** - S1 E4
 
 <!--END_SECTION:recent_anime-->
 
