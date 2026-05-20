@@ -24,11 +24,11 @@ I’ve been **coding for over 8 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **Violet Evergarden** - S1 E1
 - **World’s End Harem** - S1 E4
 - **World’s End Harem** - S1 E3
 - **World’s End Harem** - S1 E1
 - **World’s End Harem** - S1 E2
-- **That Time I Got Reincarnated as a Slime** - S4 E1
 
 <!--END_SECTION:recent_anime-->
 
