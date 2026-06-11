@@ -24,11 +24,11 @@ I’ve been **coding for over 8 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **Jujutsu Kaisen** - S3 E12
 - **Violet Evergarden** - S1 E4
 - **Violet Evergarden** - S1 E2
 - **Violet Evergarden** - S1 E3
 - **Violet Evergarden** - S1 E1
-- **World’s End Harem** - S1 E4
 
 <!--END_SECTION:recent_anime-->
 
