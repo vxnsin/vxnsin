@@ -24,11 +24,11 @@ I’ve been **coding for over 8 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
 <!--START_SECTION:recent_anime-->
+- **That Time I Got Reincarnated as a Slime** - S4 E2
 - **I've Been Killing Slimes for 300 Years and Maxed Out My Level** - S2 E8
 - **Classroom of the Elite** - S4 E1
 - **One Punch Man** - S3 E12
 - **The Quintessential Quintuplets** - SN/A EN/A
-- **Jujutsu Kaisen** - S3 E12
 
 <!--END_SECTION:recent_anime-->
 
