@@ -6,7 +6,7 @@ const baseUrl = 'https://aniworld.to';
 const watchedUrl = `${baseUrl}/user/profil/vensin/watched`;
 
 const MAX_ITEMS = 5;
-const DEDUPE = true;              // nach Serie + Staffel gruppieren
+const DEDUPE = false;            // false = rohe letzte MAX_ITEMS Folgen, auch mehrfach dieselbe Serie
 const LINK_TARGET = 'kitsu';      // 'kitsu' | 'aniworld' | 'none'
 const IMG_W = 110;
 const IMG_H = 165;                // 2:3 - passt zu Kitsu (284x402) und aniworld (150x225)
