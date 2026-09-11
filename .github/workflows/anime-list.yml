@@ -31,7 +31,7 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add README.md anime-covers.json
+        git add README.md anime-covers.json anime-covers.svg
         git commit -m "Update Recently Watched Anime" || echo "No changes to commit"
 
     - name: Pull latest changes from remote (avoid push rejection)

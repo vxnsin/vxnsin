@@ -1,18 +1,22 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+const crypto = require('crypto');
 const fs = require('fs/promises');
+const { buildSvg, VIEW_W, VIEW_H } = require('./anime-svg');
 
 const baseUrl = 'https://aniworld.to';
 const watchedUrl = `${baseUrl}/user/profil/vensin/watched`;
 
 const MAX_ITEMS = 5;
-const DEDUPE = false;            // false = rohe letzte MAX_ITEMS Folgen, auch mehrfach dieselbe Serie
+const DEDUPE = true;             // true = letzte MAX_ITEMS Serien, je mit der zuletzt geschauten Folge
 const LINK_TARGET = 'kitsu';      // 'kitsu' | 'aniworld' | 'none'
 const IMG_W = 110;
 const IMG_H = 165;                // 2:3 - passt zu Kitsu (284x402) und aniworld (150x225)
 const MAX_TITLE_LEN = 24;         // laengere Titel sprengen sonst die Reihe
 const CACHE_FILE = 'anime-covers.json';
 const README_FILE = 'README.md';
+const SVG_FILE = 'anime-covers.svg';
+const SVG_RAW_URL = 'https://raw.githubusercontent.com/vxnsin/vxnsin/master/anime-covers.svg';
 
 const START_MARKER = '<!--START_SECTION:recent_anime-->';
 const END_MARKER = '<!--END_SECTION:recent_anime-->';
@@ -227,6 +231,20 @@ function renderRow(entries) {
   return ['<div align="center"><table><tr>', ...cells, '</tr></table></div>'].join('\n');
 }
 
+// Die animierte SVG wird als Bild eingebunden. Der Hash im Query-String sorgt
+// dafuer, dass GitHubs Bild-Proxy bei neuem Inhalt nicht die alte Fassung
+// weiterliefert - ohne ihn kann die Reihe tagelang veraltet haengen bleiben.
+function renderSvgEmbed(entries, svg) {
+  const hash = crypto.createHash('sha1').update(svg).digest('hex').slice(0, 10);
+  const alt = entries
+    .map(({ anime }) => `${anime.title} S${anime.season} E${anime.episode}`)
+    .join(', ');
+
+  return `<div align="center">\n`
+    + `  <img src="${SVG_RAW_URL}?v=${hash}" width="${VIEW_W}" height="${VIEW_H}" alt="${escapeHtml(alt)}">\n`
+    + `</div>`;
+}
+
 async function updateReadme(section) {
   const data = await fs.readFile(README_FILE, 'utf8');
   const startIndex = data.indexOf(START_MARKER);
@@ -269,7 +287,23 @@ async function main() {
     entries.push({ anime, resolved: await resolveCover(anime, cache) });
   }
 
-  await updateReadme(renderRow(entries));
+  // Schlaegt der SVG-Bau fehl (Kitsu-CDN weg), bleiben die alte SVG und die
+  // alte README stehen, statt die Reihe kaputt zu machen.
+  let svg;
+  try {
+    svg = await buildSvg(entries);
+  } catch (error) {
+    console.error('SVG konnte nicht gebaut werden, README.md bleibt unveraendert:', error.message);
+    return;
+  }
+
+  const previousSvg = await fs.readFile(SVG_FILE, 'utf8').catch(() => null);
+  if (svg !== previousSvg) {
+    await fs.writeFile(SVG_FILE, svg, 'utf8');
+    console.log(`${SVG_FILE} wurde geschrieben (${Math.round(svg.length / 1024)} KB).`);
+  }
+
+  await updateReadme(renderSvgEmbed(entries, svg));
 
   if (cacheBefore !== JSON.stringify(cache)) {
     await fs.writeFile(CACHE_FILE, `${JSON.stringify(cache, null, 2)}\n`, 'utf8');

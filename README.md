@@ -22,15 +22,11 @@ I’ve been **coding for over 8 years**, and I love exploring all kinds of proje
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Recently+Watched)]()<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=640&height=80&lines=Recently+Watched+Series)]()<br>
 <!--START_SECTION:recent_anime-->
-<div align="center"><table><tr>
-<td align="center" width="128"><a href="https://kitsu.app/anime/oshi-no-ko-season-3" title="Oshi No Ko"><img src="https://media.kitsu.app/anime/49264/poster_image/small-bc382decaf8654968b11aba190752df4.jpeg" width="110" height="165" alt="Oshi No Ko"></a><br><b>Oshi No Ko</b><br><sub>S3 &middot; E11</sub></td>
-<td align="center" width="128"><a href="https://kitsu.app/anime/oshi-no-ko-season-3" title="Oshi No Ko"><img src="https://media.kitsu.app/anime/49264/poster_image/small-bc382decaf8654968b11aba190752df4.jpeg" width="110" height="165" alt="Oshi No Ko"></a><br><b>Oshi No Ko</b><br><sub>S3 &middot; E9</sub></td>
-<td align="center" width="128"><a href="https://kitsu.app/anime/oshi-no-ko-season-3" title="Oshi No Ko"><img src="https://media.kitsu.app/anime/49264/poster_image/small-bc382decaf8654968b11aba190752df4.jpeg" width="110" height="165" alt="Oshi No Ko"></a><br><b>Oshi No Ko</b><br><sub>S3 &middot; E10</sub></td>
-<td align="center" width="128"><a href="https://kitsu.app/anime/oshi-no-ko-season-3" title="Oshi No Ko"><img src="https://media.kitsu.app/anime/49264/poster_image/small-bc382decaf8654968b11aba190752df4.jpeg" width="110" height="165" alt="Oshi No Ko"></a><br><b>Oshi No Ko</b><br><sub>S3 &middot; E8</sub></td>
-<td align="center" width="128"><a href="https://kitsu.app/anime/oshi-no-ko-season-3" title="Oshi No Ko"><img src="https://media.kitsu.app/anime/49264/poster_image/small-bc382decaf8654968b11aba190752df4.jpeg" width="110" height="165" alt="Oshi No Ko"></a><br><b>Oshi No Ko</b><br><sub>S3 &middot; E7</sub></td>
-</tr></table></div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vxnsin/vxnsin/master/anime-covers.svg?v=7e82354463" width="560" height="218" alt="Oshi No Ko S3 E11, Hunter x Hunter S2 E36, That Time I Got Reincarnated as a Slime S4 E10, I've Been Killing Slimes for 300 Years and Maxed Out My Level S2 E8, Classroom of the Elite S4 E1">
+</div>
 <!--END_SECTION:recent_anime-->
 
 <!-- GitHub Contribution Snake -->
