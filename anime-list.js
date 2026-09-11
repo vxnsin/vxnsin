@@ -7,16 +7,12 @@ const { buildSvg, VIEW_W, VIEW_H } = require('./anime-svg');
 const baseUrl = 'https://aniworld.to';
 const watchedUrl = `${baseUrl}/user/profil/vensin/watched`;
 
-const MAX_ITEMS = 5;
-const DEDUPE = true;             // true = letzte MAX_ITEMS Serien, je mit der zuletzt geschauten Folge
-const LINK_TARGET = 'kitsu';      // 'kitsu' | 'aniworld' | 'none'
-const IMG_W = 110;
-const IMG_H = 165;                // 2:3 - passt zu Kitsu (284x402) und aniworld (150x225)
-const MAX_TITLE_LEN = 24;         // laengere Titel sprengen sonst die Reihe
+const MAX_ITEMS = 10;
+const DEDUPE = true;
 const CACHE_FILE = 'anime-covers.json';
 const README_FILE = 'README.md';
 const SVG_FILE = 'anime-covers.svg';
-const SVG_RAW_URL = 'https://raw.githubusercontent.com/vxnsin/vxnsin/master/anime-covers.svg';
+const SVG_RAW_URL = 'https://raw.githubusercontent.com/vxnsin/vxnsin/output/anime-covers.svg';
 
 const START_MARKER = '<!--START_SECTION:recent_anime-->';
 const END_MARKER = '<!--END_SECTION:recent_anime-->';
@@ -73,8 +69,6 @@ async function fetchWatched() {
   return animes;
 }
 
-// Gruppiert nach Serie + Staffel und behaelt je Gruppe die hoechste Folge.
-// Die Reihenfolge der Seite (neueste zuerst) bleibt erhalten.
 function dedupe(animes) {
   const groups = new Map();
 
@@ -101,14 +95,6 @@ async function readCache() {
   }
 }
 
-function shortenTitle(title) {
-  if (title.length <= MAX_TITLE_LEN) return title;
-  return `${title.slice(0, MAX_TITLE_LEN - 1).trimEnd()}…`;
-}
-
-// Kitsu findet bei "<Serie> Season 2" gerne einen falschen Ableger
-// (z.B. "Hunter x Hunter" S2 -> "Hunter x Hunter: Greed Island").
-// Der Treffer zaehlt nur, wenn er die Staffel auch wirklich benennt.
 function namesSeason(title, season) {
   const roman = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX'][season];
   const alternatives = [
@@ -179,7 +165,7 @@ async function resolveCover(anime, cache) {
     if (!hit) continue;
 
     if (query.requireSeason && !namesSeason(hit.title, anime.season)) {
-      console.warn(`Kitsu-Treffer "${hit.title}" passt nicht zu Staffel ${anime.season} von "${anime.title}" - nutze die Serie selbst.`);
+      console.warn(`Kitsu-Treffer "${hit.title}" passt nicht zu Staffel ${anime.season} von "${anime.title}".`);
       continue;
     }
 
@@ -196,48 +182,14 @@ async function resolveCover(anime, cache) {
   return { title: anime.title, cover: null, url: anime.link, source: 'none' };
 }
 
-function linkFor(anime, resolved) {
-  if (LINK_TARGET === 'none') return null;
-  if (LINK_TARGET === 'aniworld') return anime.link;
-  return resolved.url || anime.link;
-}
-
-// Eine horizontale Reihe als HTML-Tabelle. GitHub strippt style-Attribute,
-// laesst width/align aber durch - und innerhalb von HTML wird kein Markdown geparst.
-function renderRow(entries) {
-  const cells = entries.map(({ anime, resolved }) => {
-    const fullTitle = escapeHtml(anime.title);
-    const shortTitle = escapeHtml(shortenTitle(anime.title));
-    const parts = [];
-
-    if (resolved.cover) {
-      const img = `<img src="${escapeHtml(resolved.cover)}" width="${IMG_W}" height="${IMG_H}" alt="${fullTitle}">`;
-      const href = linkFor(anime, resolved);
-      parts.push(href ? `<a href="${escapeHtml(href)}" title="${fullTitle}">${img}</a><br>` : `${img}<br>`);
-    }
-
-    parts.push(`<b>${shortTitle}</b>`);
-
-    const meta = [
-      anime.season != null ? `S${anime.season}` : null,
-      anime.episode != null ? `E${anime.episode}` : null
-    ].filter(Boolean).join(' &middot; ');
-
-    if (meta) parts.push(`<br><sub>${meta}</sub>`);
-
-    return `<td align="center" width="${IMG_W + 18}">${parts.join('')}</td>`;
-  });
-
-  return ['<div align="center"><table><tr>', ...cells, '</tr></table></div>'].join('\n');
-}
-
-// Die animierte SVG wird als Bild eingebunden. Der Hash im Query-String sorgt
-// dafuer, dass GitHubs Bild-Proxy bei neuem Inhalt nicht die alte Fassung
-// weiterliefert - ohne ihn kann die Reihe tagelang veraltet haengen bleiben.
 function renderSvgEmbed(entries, svg) {
   const hash = crypto.createHash('sha1').update(svg).digest('hex').slice(0, 10);
   const alt = entries
-    .map(({ anime }) => `${anime.title} S${anime.season} E${anime.episode}`)
+    .map(({ anime }) => [
+      anime.title,
+      anime.season != null ? `S${anime.season}` : null,
+      anime.episode != null ? `E${anime.episode}` : null
+    ].filter(Boolean).join(' '))
     .join(', ');
 
   return `<div align="center">\n`
@@ -271,7 +223,6 @@ async function updateReadme(section) {
 async function main() {
   const animes = await fetchWatched();
 
-  // Leerer Scrape (Cloudflare-Block, Markup-Aenderung) darf die README nicht leeren.
   if (animes.length === 0) {
     console.warn('Keine Eintraege gefunden - README.md bleibt unveraendert.');
     return;
@@ -287,8 +238,6 @@ async function main() {
     entries.push({ anime, resolved: await resolveCover(anime, cache) });
   }
 
-  // Schlaegt der SVG-Bau fehl (Kitsu-CDN weg), bleiben die alte SVG und die
-  // alte README stehen, statt die Reihe kaputt zu machen.
   let svg;
   try {
     svg = await buildSvg(entries);

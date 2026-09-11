@@ -25,7 +25,7 @@ I’ve been **coding for over 8 years**, and I love exploring all kinds of proje
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=640&height=80&lines=Recently+Watched+Series)]()<br>
 <!--START_SECTION:recent_anime-->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vxnsin/vxnsin/master/anime-covers.svg?v=7e82354463" width="560" height="218" alt="Oshi No Ko S3 E11, Hunter x Hunter S2 E36, That Time I Got Reincarnated as a Slime S4 E10, I've Been Killing Slimes for 300 Years and Maxed Out My Level S2 E8, Classroom of the Elite S4 E1">
+  <img src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/anime-covers.svg?v=7857326b3a" width="840" height="218" alt="Oshi No Ko S3 E11, Hunter x Hunter S2 E36, That Time I Got Reincarnated as a Slime S4 E10, I've Been Killing Slimes for 300 Years and Maxed Out My Level S2 E8, Classroom of the Elite S4 E1, One Punch Man S3 E12, The Quintessential Quintuplets, Jujutsu Kaisen S3 E12, Violet Evergarden S1 E4, World’s End Harem S1 E4">
 </div>
 <!--END_SECTION:recent_anime-->
 

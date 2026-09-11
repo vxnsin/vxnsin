@@ -10,28 +10,58 @@ on:
 
 jobs:
   update-anime-list:
-    runs-on: ubuntu-latest  
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v3  
+      uses: actions/checkout@v3
 
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '22.11.0'  
+        node-version: '22.11.0'
 
     - name: Install Dependencies
-      run: npm install  
+      run: npm install
+
+    - name: Restore cover cache from output branch
+      run: |
+        curl -fsSL -o anime-covers.json \
+          "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/output/anime-covers.json" \
+          || echo '{}' > anime-covers.json
 
     - name: Run Anime List
-      run: node anime-list.js  
+      run: node anime-list.js
+
+    - name: Publish cover files to output branch
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        if [ ! -f anime-covers.svg ]; then
+          echo "No anime-covers.svg was produced, nothing to publish"
+          exit 0
+        fi
+        git clone --depth 1 --branch output \
+          "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output-branch
+        cp anime-covers.svg anime-covers.json output-branch/
+        cd output-branch
+        git config user.name "GitHub Actions"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add anime-covers.svg anime-covers.json
+        if git diff --cached --quiet; then
+          echo "No cover changes to publish"
+        else
+          git commit -m "Update anime covers"
+          git push origin output
+        fi
 
     - name: Commit changes to README.md (if any)
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add README.md anime-covers.json anime-covers.svg
+        git add README.md
         git commit -m "Update Recently Watched Anime" || echo "No changes to commit"
 
     - name: Pull latest changes from remote (avoid push rejection)
