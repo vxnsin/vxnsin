@@ -43,19 +43,29 @@ jobs:
           echo "No anime-covers.svg was produced, nothing to publish"
           exit 0
         fi
-        git clone --depth 1 --branch output \
-          "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output-branch
-        cp anime-covers.svg anime-covers.json output-branch/
-        cd output-branch
-        git config user.name "GitHub Actions"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add anime-covers.svg anime-covers.json
-        if git diff --cached --quiet; then
-          echo "No cover changes to publish"
-        else
+        for attempt in 1 2 3; do
+          rm -rf output-branch
+          git clone --branch output \
+            "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output-branch
+          cp anime-covers.svg anime-covers.json output-branch/
+          cd output-branch
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add anime-covers.svg anime-covers.json
+          if git diff --cached --quiet; then
+            echo "No cover changes to publish"
+            exit 0
+          fi
           git commit -m "Update anime covers"
-          git push origin output
-        fi
+          if git push origin output; then
+            exit 0
+          fi
+          echo "Push rejected, the other workflow got there first - retrying on a fresh clone"
+          cd ..
+          sleep 5
+        done
+        echo "Could not publish the cover files after 3 attempts"
+        exit 1
 
     - name: Commit changes to README.md (if any)
       run: |
