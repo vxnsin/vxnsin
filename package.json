@@ -1,14 +1,14 @@
 {
-  "name": "anime-list",
-  "version": "1.1.0",
-  "main": "anime-list.js",
+  "name": "vxnsin-profile",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Renders the old-web style cards for the github.com/vxnsin profile README",
+  "main": "build.js",
   "scripts": {
-    "start": "node anime-list.js"
+    "build": "node build.js"
   },
-  "keywords": ["anime-list"],
   "author": "Vensin",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "axios": "^1.7.9",
     "cheerio": "^1.0.0"

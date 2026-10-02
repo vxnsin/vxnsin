@@ -1,3 +1,6 @@
 node_modules/
 anime-covers.svg
 anime-covers.json
+dist/
+snk/
+.claude/
