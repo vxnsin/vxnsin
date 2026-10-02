@@ -1,0 +1,70 @@
+{
+  "theme": "spring",
+  "since": "2018-01-01",
+  "github": { "user": "vxnsin" },
+  "anime": { "source": "aniworld", "user": "vensin", "count": 10 },
+  "cards": [
+    {
+      "type": "header",
+      "link": "https://vensin.dev",
+      "title": "vensin.dev · welcome",
+      "wordmark": "vensin.dev",
+      "subtitle": "ヴェンシン",
+      "typewriter": ["a full-stack developer", "an anime enthusiast", "a motorcycle rider", "a music lover", "probably watching something right now"],
+      "chips": ["hi, i'm luis", "coding since {since}", "based in germany", "ヽ(>∀<☆)ノ"]
+    },
+    { "type": "button", "id": "nav-home", "label": "vensin.dev →", "link": "https://vensin.dev" },
+    { "type": "button", "id": "nav-about", "label": "about", "link": "https://vensin.dev/about" },
+    { "type": "button", "id": "nav-projects", "label": "projects", "link": "https://vensin.dev/projects" },
+    { "type": "button", "id": "nav-anime", "label": "anime", "link": "https://vensin.dev/anime" },
+    { "type": "button", "id": "nav-music", "label": "music", "link": "https://vensin.dev/music" },
+    { "type": "button", "id": "nav-guestbook", "label": "guestbook", "link": "https://vensin.dev/guestbook" },
+    {
+      "type": "about",
+      "paragraphs": [
+        "hi, i'm luis (online: vensin). i'm a developer from germany and i've been coding for over {years} years: web stuff, minecraft servers, discord bots and whatever idea pops up next.",
+        "when i'm not at the keyboard i'm probably watching anime, listening to music or out on my motorcycle.",
+        "this profile is drawn to match my site vensin.dev, so come say hi over there too. enjoy your stay!"
+      ],
+      "signoff": "love, luis.",
+      "status": {
+        "rows": [
+          { "label": "location", "value": "germany" },
+          { "label": "coding", "value": "since {since}" },
+          { "label": "watching", "value": "{anime.latest}" },
+          { "label": "last push", "value": "{github.lastPush}" },
+          { "label": "mood", "moods": ["(￣▽￣)ノ", "ヽ(>∀<☆)ノ", "(￣o￣) zzZ", "(=^･ω･^=)", "ヾ(＾∇＾)"] }
+        ]
+      }
+    },
+    {
+      "type": "stack",
+      "groups": [
+        { "label": "languages", "items": ["java", "javascript", "typescript", "python", "rust", "lua", "dart", "html", "css"] },
+        { "label": "frameworks", "items": ["react", "next.js", "node.js", "express", "tailwind", "flutter"] },
+        { "label": "data & build", "items": ["mongodb", "mariadb", "gradle", "maven", "git", "vercel"] },
+        { "label": "setup", "items": ["linux", "debian", "raspberry pi", { "name": "intellij idea", "icon": "intellijidea" }, { "name": "vs code", "color": "#2f80ed" }, "termius"] }
+      ]
+    },
+    { "type": "anime", "link": "https://vensin.dev/anime" },
+    { "type": "stats" },
+    { "type": "snake" },
+    {
+      "type": "marquee",
+      "lines": ["welcome to github.com/vxnsin", "every window here is a hand-drawn svg", "ヽ(>∀<☆)ノ", "go watch more anime", "minecraft servers are my love language", "this readme rebuilds itself every night", "(=^･ω･^=)", "say hi on vensin.dev", "if something looks weird, blame me"]
+    },
+    { "type": "badge", "id": "badge-site", "top": "vensin", "bottom": ".dev", "mark": "ヴ", "color": "#e2789b", "link": "https://vensin.dev" },
+    { "type": "badge", "id": "badge-github", "top": "github", "bottom": "@vxnsin", "mark": "G", "color": "#8b7fd6", "link": "https://github.com/vxnsin" },
+    { "type": "badge", "id": "badge-discord", "top": "discord", "bottom": "velane", "mark": "D", "color": "#5865f2", "link": "https://discord.gg/velane" },
+    { "type": "badge", "id": "badge-instagram", "top": "insta", "bottom": "@vxn_sin", "mark": "I", "color": "#d6629a", "link": "https://www.instagram.com/vxn_sin/" },
+    { "type": "badge", "id": "badge-steam", "top": "steam", "bottom": "vxnsin", "mark": "S", "color": "#4a6b8c", "link": "https://steamcommunity.com/id/Vxnsin" },
+    { "type": "badge", "id": "badge-tiktok", "top": "tiktok", "bottom": "@vxnsin", "mark": "T", "color": "#3fbfb8", "link": "https://www.tiktok.com/@vxnsin" },
+    { "type": "badge", "id": "badge-anime", "top": "anime", "bottom": "enjoyer", "mark": "♡", "color": "#ff8fb4", "link": "https://vensin.dev/anime" },
+    {
+      "type": "footer",
+      "wordmark": "vensin.dev",
+      "text": "© {year} luis. all the bugs are mine. no tracking, just svgs.",
+      "counterSince": "2018-01-01"
+    }
+  ]
+}
